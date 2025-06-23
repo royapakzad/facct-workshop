@@ -13,7 +13,7 @@ Users will select a scenario from a curated list of refugee and migration-relate
 The tool can be accessed during or after the session, enabling flexible, real-time experimentation and exploration. `;
 export const RESOURCES_HEADING = "Resources";
 export const MINI_LAB_TEXT = "Mini-Lab Web Platform";
-export const MINI_LAB_URL = "#minilab"; // Placeholder URL
+export const MINI_LAB_URL = "https://multilingual-llm-mini-lab-z68y.vercel.app"; // Placeholder URL
 export const SLIDES_TEXT = "Workshop Slides";
 export const SLIDES_URL = "https://docs.google.com/presentation/d/1rq6I7tC0dVCOw71wczLuHdPn0dolfynU8BQsnFs-6NA/edit?usp=sharing";
 export const LOGISTICAL_NEED_HEADING = "Important Note";
