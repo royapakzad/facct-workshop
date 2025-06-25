@@ -8,10 +8,10 @@ export const WORKSHOP_ABSTRACT = `
 <p>This virtual, hands‑on CRAFT session invites participants to explore a web‑based evaluation platform that allows users to interact with multilingual LLMs and assess their responses through a human‑rights lens. After a <a href="https://docs.google.com/presentation/d/1rq6I7tC0dVCOw71wczLuHdPn0dolfynU8BQsnFs-6NA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">brief introduction</a> to the real‑world deployment of AI chatbots in humanitarian settings, participants will independently navigate to the online <a href="https://multilingual-llm-mini-lab-z68y-roya-pakzads-projects.vercel.app" target="_blank" rel="noopener noreferrer">mini‑lab</a> to complete an interactive exercise.</p>
 
 <ul>
-  <li>Select a scenario from a curated list of refugee and migration‑related topics;</li>
-  <li>Choose and refine the translated version of the prompt;</li>
-  <li>Test it on a selected large language model (LLM); and</li>
-  <li>Evaluate the chatbot responses using a human‑rights‑centered rubric, comparing outputs across language pairs to identify inconsistencies, tone shifts, factual gaps, and safety concerns.</li>
+  <li>1) Select a scenario from a curated list of refugee and migration‑related topics;</li>
+  <li>2) Choose and refine the translated version of the prompt;</li>
+  <li>3) Test it on a selected large language model (LLM); and</li>
+  <li>4) Evaluate the chatbot responses using a human‑rights‑centered rubric, comparing outputs across language pairs to identify inconsistencies, tone shifts, factual gaps, and safety concerns.</li>
 </ul>
 
 <p>The tool can be accessed during or after the session, enabling flexible, real‑time experimentation and exploration.</p>
