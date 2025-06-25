@@ -48,13 +48,14 @@ const App = () => {
       id: "abstract-heading",
       className: "text-3xl font-semibold text-amber-700 mb-5"
     }, WORKSHOP_ABSTRACT_HEADING),
-    React.createElement("div", {
-      className: "space-y-4 text-stone-700 leading-relaxed text-lg text-left"
-    }, WORKSHOP_ABSTRACT.split('\\n').map((paragraph, index) => (
-      React.createElement("p", {
-        key: index
-      }, paragraph)
-    )))),
+    React.createElement(
+  "div",
+  {
+    className:
+      "prose space-y-4 text-stone-700 leading-relaxed text-lg text-left",
+    dangerouslySetInnerHTML: { __html: WORKSHOP_ABSTRACT },
+  }
+),),
     React.createElement("section", {
       "aria-labelledby": "resources-heading",
       className: "mb-12"
