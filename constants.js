@@ -2,17 +2,20 @@
 export const WORKSHOP_TITLE = "Centering Refugee and Migrant Voices: Human Rights-Based AI Evaluation Across Languages";
 export const SPEAKER_NAME = "Roya Pakzad (Taraaz and Mozilla Foundation)";
 export const WORKSHOP_ABSTRACT_HEADING = "Workshop Abstract";
-export const WORKSHOP_ABSTRACT = `Humanitarian and government agencies are increasingly deploying generative AI chatbots to provide critical information to refugees, asylum seekers, and other displaced populations. Yet many of these tools are developed and evaluated primarily in English, often overlooking the linguistic, cultural, and legal nuances essential for safe and equitable access across diverse communities.
+export const WORKSHOP_ABSTRACT = `
+<p>Humanitarian and government agencies are increasingly deploying generative AI chatbots to provide critical information to refugees, asylum seekers, and other displaced populations. Yet many of these tools are developed and evaluated primarily in English, often overlooking the linguistic, cultural, and legal nuances essential for safe and equitable access across diverse communities.</p>
 
-This virtual, hands‑on CRAFT session invites participants to explore a web‑based evaluation platform that allows users to interact with multilingual LLMs and assess their responses through a human‑rights lens. After a [brief introduction](https://docs.google.com/presentation/d/1rq6I7tC0dVCOw71wczLuHdPn0dolfynU8BQsnFs-6NA/edit?usp=sharing) to the real‑world deployment of AI chatbots in humanitarian settings, participants will independently navigate to the online ["mini‑lab"](https://multilingual-llm-mini-lab-z68y-roya-pakzads-projects.vercel.app) to complete an interactive exercise.
+<p>This virtual, hands‑on CRAFT session invites participants to explore a web‑based evaluation platform that allows users to interact with multilingual LLMs and assess their responses through a human‑rights lens. After a <a href="https://docs.google.com/presentation/d/1rq6I7tC0dVCOw71wczLuHdPn0dolfynU8BQsnFs-6NA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">brief introduction</a> to the real‑world deployment of AI chatbots in humanitarian settings, participants will independently navigate to the online <a href="https://multilingual-llm-mini-lab-z68y-roya-pakzads-projects.vercel.app" target="_blank" rel="noopener noreferrer">mini‑lab</a> to complete an interactive exercise.</p>
 
-Users will:
-- select a scenario from a curated list of refugee and migration‑related topics,
-- choose and refine the translated version of the prompt,
-- test it on a selected large language model (LLM), and
-- evaluate the chatbot responses using a human‑rights‑centered rubric, comparing outputs across language pairs to identify inconsistencies, tone shifts, factual gaps, and safety concerns.
+<ul>
+  <li>Select a scenario from a curated list of refugee and migration‑related topics;</li>
+  <li>Choose and refine the translated version of the prompt;</li>
+  <li>Test it on a selected large language model (LLM); and</li>
+  <li>Evaluate the chatbot responses using a human‑rights‑centered rubric, comparing outputs across language pairs to identify inconsistencies, tone shifts, factual gaps, and safety concerns.</li>
+</ul>
 
-The tool can be accessed during or after the session, enabling flexible, real‑time experimentation and exploration.`;
+<p>The tool can be accessed during or after the session, enabling flexible, real‑time experimentation and exploration.</p>
+`;
 export const RESOURCES_HEADING = "Resources";
 export const MINI_LAB_TEXT = "Mini-Lab Web Platform";
 export const MINI_LAB_URL = "https://multilingual-llm-mini-lab-z68y.vercel.app"; // Placeholder URL
