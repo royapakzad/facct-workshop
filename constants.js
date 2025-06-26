@@ -14,7 +14,7 @@ export const WORKSHOP_ABSTRACT = `
   <li>4) Evaluate the chatbot responses using a human‑rights‑centered rubric, comparing outputs across language pairs to identify inconsistencies, tone shifts, factual gaps, and safety concerns.</li>
 </ul>
 
-<p>The tool can be accessed during or after the session, enabling flexible, real‑time experimentation and exploration.</p>
+
 `;
 export const RESOURCES_HEADING = "Resources";
 export const MINI_LAB_TEXT = "Mini-Lab Web Platform";
